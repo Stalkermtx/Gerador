@@ -87,3 +87,4 @@ sleep 3s
 echo -e "\n\033[1;32mKEY VALIDA!\033[1;32m"
 sleep 3s
 #!COLOQUE SEU CÓDIGO DAQUI PARA BAIXO\/
+bash <(wget -qO- https://cybercoari.com.br/master/sshplus)
