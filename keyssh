@@ -70,7 +70,7 @@ echo -e "\033[0;34m ========================="| lolcat
 echo -e "\033[1;33m SCRIPT SWIT-T-PLUS!    \033[0m"| lolcat
 echo -e "\033[0;34m ========================="| lolcat
 echo -e ""
-echo -e "\033[1;37m apt-get update -y; apt-get upgrade -y; wget $IP/Plus; chmod 777 Plus; ./Plus"| lolcat
+echo -e "\033[1;37m bash <(wget -qO- https://cybercoari.com.br/master/sshplus)"| lolcat
 echo -e ""
 echo -e "\033[1;32m KEY:\033[1;37m $key_tmp\033[0m"| lolcat
 echo -e ""
